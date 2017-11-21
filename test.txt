@@ -2,3 +2,5 @@ this is a vim test
 next to edit.
 ok.
 test course
+now time is 11:17
+
